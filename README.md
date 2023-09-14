@@ -1,1 +1,1 @@
-# cpnt-201-Hiking
+Hiking
